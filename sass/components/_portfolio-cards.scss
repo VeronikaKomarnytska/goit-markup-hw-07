@@ -7,7 +7,7 @@
 
 .card-item {
     
-    flex-basis: calc ((100%-30px * 2) / 3);
+    flex-basis: calc((100% - 60px) / 3);
 
   &:hover .card-overlay {
             transform: translateY(0);
